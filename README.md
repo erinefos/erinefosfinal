@@ -14,7 +14,8 @@ The training dataset contains 12,906 entries and the test dataset contains 5,791
 I chose to ommit the variables 'breast_cancer_diagnosis_code', 'breast_cancer_diagnosis_desc', 'metastatic_cancer_diagnosis_code', 'metastatic_first_novel_treatment', and 'metastatic_first_novel_treatment_type'
 
 ### Data Visualization
-The issue with this specific dataset is that there is very little correalation between our target variable and the other features.
+The issue with this specific dataset is that there is very little correalation between our target variable and the other features. 
+
 <img width="605" alt="Screenshot 2024-12-11 at 11 17 59 AM" src="https://github.com/user-attachments/assets/95bab021-cfac-4eee-b6fc-e43894234498" />
 
 ### Training
