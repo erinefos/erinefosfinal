@@ -17,11 +17,11 @@ I chose to ommit the variables 'breast_cancer_diagnosis_code', 'breast_cancer_di
 <img width="605" alt="Screenshot 2024-12-11 at 11 17 59 AM" src="https://github.com/user-attachments/assets/95bab021-cfac-4eee-b6fc-e43894234498" />
 
 ### Training
-Naive Bayes
+Naive Bayes: 58%
 
-Logistic Regression
+Logistic Regression: 63%
 
-XGBoost
+XGBoost: 59% Accuracy
 ### Performance Comparison
 Logistic Regression had the highest accuracy score.
 ### Conclusions
