@@ -32,7 +32,7 @@ I chose to ommit the variables 'breast_cancer_diagnosis_code', 'breast_cancer_di
 <img width="555" alt="Screenshot 2024-12-13 at 3 34 19 PM" src="https://github.com/user-attachments/assets/d000c6f8-acbe-4d74-b515-8c319672aef5" />
 
 ### Training
-With training, I decided to chose 3 different classification models, Logistic Regression, XGBoost (which was a popular choice in those who did this Kaggle challenge), and Naive Bayes.
+With training, I decided to chose 3 different classification models, Logistic Regression, XGBoost (which was a popular choice in those who did this Kaggle challenge), and Naive Bayes. I tried multiple different test and train splits, which did little to change the 
 Logistic Regression: 63%
 
 <img width="652" alt="Screenshot 2024-12-13 at 3 34 59 PM" src="https://github.com/user-attachments/assets/d747b177-3c6d-4057-b2fc-b3562fdbbecb" />
