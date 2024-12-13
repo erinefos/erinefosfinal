@@ -22,7 +22,6 @@ DiagPeriodL90D where 1 represents that the patient was dianosed within 90 days o
 I chose to ommit the variables 'breast_cancer_diagnosis_code', 'breast_cancer_diagnosis_desc', 'metastatic_cancer_diagnosis_code', 'metastatic_first_novel_treatment', and 'metastatic_first_novel_treatment_type'
 
 ### Data Visualization
-The issue with this specific dataset is that there is very little correalation between our target variable and the other features. 
 
 <img width="896" alt="Screenshot 2024-12-13 at 3 30 39 PM" src="https://github.com/user-attachments/assets/fdb75f93-fbb4-4ece-b074-ebdc7398225e" />
 
@@ -33,8 +32,7 @@ The issue with this specific dataset is that there is very little correalation b
 <img width="555" alt="Screenshot 2024-12-13 at 3 34 19 PM" src="https://github.com/user-attachments/assets/d000c6f8-acbe-4d74-b515-8c319672aef5" />
 
 ### Training
-Naive Bayes: 58%
-
+With training, I decided to chose 3 different classification models, Logistic Regression, XGBoost (which was a popular choice in those who did this Kaggle challenge), and Naive Bayes.
 Logistic Regression: 63%
 
 <img width="652" alt="Screenshot 2024-12-13 at 3 34 59 PM" src="https://github.com/user-attachments/assets/d747b177-3c6d-4057-b2fc-b3562fdbbecb" />
